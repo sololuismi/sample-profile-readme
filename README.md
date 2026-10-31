@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Andre Amelinckx
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+My personal GitHub profile highlighting my interests in cybersecurity, technology, and data analytics.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -13,4 +13,4 @@ _Share some information about yourself, including your class, major, jobs, and e
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"Your sample quote here!"_
+_"Keep working hard, even when you're thrown down into the wet puddle. You're still alive, aren't you?"_
